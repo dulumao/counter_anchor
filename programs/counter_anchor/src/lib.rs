@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use solana_security_txt::security_txt;
 
-declare_id!("pAytGNLmdVowBewj96LHYabZGjNUpbYa3TFwZ4Mhjhx");
+declare_id!("BmxtYpBoiCt7DGiVEF1kuGPNsVdrcch4eZgdyoCjtGEV");
 
 security_txt! {
     // Required fields
